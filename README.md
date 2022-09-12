@@ -8,7 +8,7 @@ Graduated in computer engineering in 2021. I started programming at the age of 1
   
   
   
-- 🔭 I’m currently working on **backend development and computer vision for educational projects**  
+- 🔭 I’m currently working on **backend development and embedded computing**  
   
 - 🌱 I’m currently learning **emulators, compilers, computer vision, computer graphics and game/physics engine development**  
   
