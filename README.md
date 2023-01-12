@@ -18,7 +18,7 @@ Graduated in computer engineering in 2021. I started programming at the age of 1
 
 ### Stats
 ![lpg2709 github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lpg2709&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lpg2709&layout=compact&hide_border=true&count_private=true&hide=vue,html,hcl,Dockerfile,CMake,Makefile&theme=gruvbox)  
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lpg2709&layout=compact&hide_border=true&count_private=true&hide=vue,html,hcl,Dockerfile,CMake,Makefile&theme=gruvbox)  
 ### Connect with me: 
  
 <p align="left">  
